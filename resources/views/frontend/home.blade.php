@@ -48,7 +48,7 @@
             <div class="col-md-4">
                 <i class="icon-chat id-color mb20 size40"></i>
                 <h4>Konsultasi</h4>
-                <p>Konsiltasi mengenaik beberapa planning megenai even pernikahan.</p>
+                <p>Konsultasi mengenai beberapa planning event pernikahan.</p>
             </div>
 
             <div class="col-md-4">
